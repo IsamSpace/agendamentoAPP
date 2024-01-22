@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Moirai+One&display=swap');
+
+body{
+    background-color: #111;
+    color:aliceblue;
+    width: 98vw;
+    padding: 1%;
+}
+
+.criado:hover{
+    color: red;
+    background-color: #999;
+}
+
+.criado{
+    font-weight:900;
+    margin-top: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    background-color: #888;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+.data{
+    margin-right: 20px;
+}
+
+.dia{
+    margin-left: 5px;
+}
+
+#horariosl{
+    width: 98vw;
+    height: 95vh;
+    background-color: aliceblue;
+    color: #111;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    display: none;
+    text-align: center;
+    justify-content: space-between;
+    position: fixed;
+    border-radius: 3px;
+}
+
+p{
+    cursor: pointer;
+}
+
+p:hover{
+    color: rgb(0, 17, 255);
+}
+
+#hr{
+    width: 25px;
+    position: relative;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+hr{
+    height: 3px;
+    margin: 2PX;
+    background-color: azure;
+    border-radius: 2PX;
+}
+
+#menu_lateral{
+    min-width: 20vw;
+    height: 100vh;
+    background-color: rgb(255, 251, 0);
+    position: fixed;
+    top: 10px;
+}
+
+.imgX{
+    width: 20px;
+    margin-left: auto;
+    margin-right: 5px;
+    padding: 5px;
+    padding-top: 0px;
+    color: red;
+    font-weight: 900;
+    cursor: pointer;
+    font-size: 20pt;
+    font-family: "Moirai One", system-ui;
+}
