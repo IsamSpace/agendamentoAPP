@@ -38,15 +38,3 @@ button{
     width: 20vh;
     margin-top: 10vh;
 }
-#hr{
-    width: 30px;
-    margin-right: auto;
-    margin-bottom: auto;
-}
-hr{
-    height: 4px;
-    background-color: rgb(255, 255, 255);
-    border-color: rgb(255, 255, 255);
-    border-radius: 3px;
-    margin: 2px;
-}
