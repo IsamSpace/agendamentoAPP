@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+#cont{
+    display: flex;
+    flex-direction: column;
+    background-color: darkgrey;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 60px 15px 60px 15px;
+    border-radius: 35px;
+}
+button{
+ width: 300px;
+ height: 70px;
+ font-size: 20pt;
+ margin: 10px;
+ border-radius: 15px;
+}
+#hr{
+    width: 30px;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+hr{
+    height: 4px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    margin: 2px;
+}
