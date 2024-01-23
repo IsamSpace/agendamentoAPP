@@ -15,7 +15,7 @@ document.getElementById('hr').addEventListener('click', ()=>{
 
     //conteudo divs
         ela.textContent = ('X')
-        eli.innerHTML = ("<a href='#' style='color:red' id='seta'>&#9664;</a>")
+        eli.innerHTML = ("<a href='https://isamspace.github.io/agendamentoAPP/Sele%C3%A7%C3%A3o.html' style='color:red' id='seta'>&#9664;</a>")
         ela.addEventListener('click', ()=>{
             ele.remove()
         })
