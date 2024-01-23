@@ -18,8 +18,8 @@ hr{
     height: 99vh;
     background-color: rgb(255, 251, 0);
     position: fixed;
-    top: 10px;
-    left: 0;
+    top: 5px;
+    left: 1px;
     border-radius: 2.5px;
     display: flex;
     flex-direction: column;
