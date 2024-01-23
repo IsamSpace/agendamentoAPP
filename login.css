@@ -2,10 +2,10 @@
     text-align: center;
 }
 body{
-    background-color: rgb(234, 250, 897);
+    background-color: rgb(234, 250, 18, 0.897);
 }
 h1{
-    color: rgb(216, 231, 8);
+    color: rgb(234, 250, 18, 0.897);
 }
 div{
     flex-direction: column;
